@@ -1,13 +1,15 @@
-# **Linear Regression Practical Example**
+# Overview
 
-This repository demonstrates a practical application of linear regression for a targeted variable. This dataset is about cars and the factors(independent variables) that could potentially affect the price(dependent variable). The provided Notebook  guides you through the steps of building and evaluating a linear regression model.
+This repository showcases a collection of data science projects, including data analysis, machine learning models and visualizations. Each project demonstrates different aspects of data science ranging from data cleaning and EDA to predictive modeling and deployment.
 
-**This notebook includes:**
+## Techniques
 
-* Importing essential libraries like pandas and scikit-learn.
-* Loading and exploring a sample dataset.
-* Preparing data for modeling (handling missing values, feature scaling).
-* Splitting data into training and testing sets.
-* Fitting a linear regression model.
-* Evaluating model performance using metrics like R-squared and mean squared error.
-* Making predictions on new data.
+* Exploratory Data Analysis (EDA): Insights and trends from datasets.
+* Machine Learning Models: Regression, classification, and clustering tasks.
+* Visualization Dashboards: Interactive visualizations and reporting.
+
+## Technologies
+
+* Python: pandas, NumPy, scikit-learn, Matplotlib, Seaborn, etc.
+* Jupyter Notebooks/Google Colab Notebooks for documentation and reproducibility.
+
